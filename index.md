@@ -3,8 +3,6 @@ layout: soon
 permalink: /
 ---
 
-# Coming soon
+Smart projectors for better education
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut purus.
-Some call to action.
-
+[Contact Us](mailto:contactus@cloudmount.in?subject=Interested%20in%20CloudMount)
